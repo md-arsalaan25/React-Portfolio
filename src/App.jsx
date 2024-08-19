@@ -5,6 +5,7 @@ import Technologies from "./components/Technologies";
 import Experience from "./components/Experience";
 import Projects from "./components/Projects";
 import Contacts from "./components/Contact";
+import { Analytics } from "@vercel/analytics/react"
 
 const App = () => {
   return (
@@ -20,6 +21,7 @@ const App = () => {
       <Experience />
       <Projects />
       <Contacts />
+      <Analytics />
       </div>
     </div>
   )

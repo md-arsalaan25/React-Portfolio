@@ -1,6 +1,8 @@
 import logo from "../assets/iitismlogo.png";
 import { FaLinkedin } from "react-icons/fa";
 import { FaGithub } from "react-icons/fa";
+import { GiFeather } from "react-icons/gi";
+
 
 function IconButton({ onClick, icon: Icon, color }) {
   return (
@@ -25,6 +27,7 @@ const Navbar = () => {
         <img className="mx-2 w-20" src={logo} alt="logo" />
       </div>
       <div className="m-8 flex items-center justify-center gap-4 text-2xl">
+         <GiFeather />
         <IconButton onClick={handleLinkedInClick} icon={FaLinkedin} />
         <IconButton onClick={handleGithubClick} icon={FaGithub}/>
       </div>
