@@ -28,14 +28,14 @@ return (
             initial = "hidden"
             animate= "visible"
             className="bg-gradient-to-r from-pink-300 via-slate-500 to-purple-500 bg-clip-text text-3xl tracking-tight text-transparent">
-            Product Management
+            How I understand Product Management ?
             </motion.span>
             <motion.p 
             variants={container(1)}
             initial = "hidden"
             animate= "visible"
             className="my-2 max-w-xl py-6 font-light tracking-tighter">
-            I'm a final-year B.Tech student at IIT Dhanbad with expertise in sprint management, product design, and analytics. I founded a VC consulting firm called Black Diamond Consulting in my third year , led global projects at Scholaride as a Director, and built a 600+ student-alumni community as the Product Management Club's Overall Coordinator. In my free time, I enjoy playing the guitar and writing ghazals and nazms.
+            Building revolutionary products is all about blending technology, art, and customers need. While Developers contribute through technology and Designers through their expertise in art, Product Managers bring a deep understanding of customers. Products built without understanding customer needs can never be scaled, and that is where the importance of Product Managers lie. 
             </motion.p>
             </div>
         </div>

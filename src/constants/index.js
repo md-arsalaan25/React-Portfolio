@@ -5,7 +5,13 @@ import project4 from "../assets/projects/project-4.png";
 
 export const HERO_CONTENT = `I am a passionate full stack developer with a knack for crafting robust and scalable web applications. With 5 years of hands-on experience, I have honed my skills in front-end technologies like React and Next.js, as well as back-end technologies like Node.js, MySQL, PostgreSQL, and MongoDB. My goal is to leverage my expertise to create innovative solutions that drive business growth and deliver exceptional user experiences.`;
 
-export const ABOUT_TEXT = `I am a dedicated and versatile full stack developer with a passion for creating efficient and user-friendly web applications. With 5 years of professional experience, I have worked with a variety of technologies, including React, Next.js, Node.js, MySQL, PostgreSQL, and MongoDB. My journey in web development began with a deep curiosity for how things work, and it has evolved into a career where I continuously strive to learn and adapt to new challenges. I thrive in collaborative environments and enjoy solving complex problems to deliver high-quality solutions. Outside of coding, I enjoy staying active, exploring new technologies, and contributing to open-source projects.`;
+export const ABOUT_TEXT = `I am  a final-year B.Tech student at IIT (ISM) Dhanbad. Since my first year, I've been deeply passionate about product management, working throughout all stages of both B2B and B2C product lifecycle.
+
+In my third year, I co-founded a VC consulting firm, where I helped over 15 early-stage startups secure pre-seed funding and connect with angel investors. I also got to lead product and analytics projects for MSMEs in Dubai, India, and France through my venture.
+
+I also led the Product Management Club of IIT Dhanbad, being the Overall Coordinator where I’ve led 20+ product based projects for MSMEs and multinational brands like Marico Ltd. I’m proud of the 500+ strong product community I’ve built, mentored by 50+ industry experts and college alumni.
+
+Outside of work, I enjoy playing the guitar and writing Urdu shayari, with a few ghazals becoming quite popular on campus.`;
 
 export const EXPERIENCES = [
   {
@@ -17,7 +23,7 @@ export const EXPERIENCES = [
   },
   {
     year: "01/2024 - 04/2024",
-    role: "Digital Strategy Intern Intern",
+    role: "Digital Strategy Intern",
     company: "Mailmodo",
     description: `I analyzed over 1,500 web pages on Mailmodo's mobile sites, identifying issues impacting Core Web Vitals like INP and LCP, and validated these findings in lab and user environments. I prioritized and resolved performance issues through market research, collaborated with developers for seamless integration, and improved SEO rankings. I reported to Zeeshan Akhtar, Head of Marketing, and received a Letter of Recommendation.`,
     technologies: ["React", "JavaScript", "DevTools", "SEO"],
