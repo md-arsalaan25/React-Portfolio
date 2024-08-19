@@ -35,7 +35,7 @@ return (
             initial = "hidden"
             animate= "visible"
             className="my-2 max-w-xl py-6 font-light tracking-tighter">
-            Building revolutionary products is all about blending technology, art, and customers need. While Developers contribute through technology and Designers through their expertise in art, Product Managers bring a deep understanding of customers. Products built without understanding customer needs can never be scaled, and that is where the importance of Product Managers lie. 
+            Building revolutionary products is all about blending technology, art, and customer needs. While Developers contribute through technology and Designers through their expertise in art, Product Managers bring a deep understanding of customers. Products built without understanding customer needs can never be scaled, and that is where the importance of Product Managers lie. 
             </motion.p>
             </div>
         </div>
