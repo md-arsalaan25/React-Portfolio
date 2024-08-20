@@ -16,9 +16,9 @@ Outside of work, I enjoy playing the guitar and writing Urdu shayari, with a few
 export const EXPERIENCES = [
   {
     year: "09/2023 - Present",
-    role: "Associate Product Manager",
+    role: "Product Management Intern",
     company: "Convin",
-    description: `I integrated Apache Superset with Row Level Security into Convin, using PostgreSQL for client-specific visualizations. I documented product guides and created demo videos, aiding the sales team in onboarding three clients in two months. I developed and launched the "Sales Script" product, securing two new clients, and improved sprint planning, increasing weekly deployments from 7 to 12. I reported to Lalitendu Bal and received a 3x internship extension.`,
+    description: `During my time at Convin, I played a key role in enhancing the product experience by creating detailed product guides and manuals, as well as producing video guides for client demos. I was responsible for drafting Product Requirement Documents (PRDs) for both major and minor features on the platform. Additionally, I created analytics charts using Apache Superset and configured B2B client domains with Row Level Security, enabling clients to securely access their data. I also designed and drafted product newsletters, keeping both clients and internal stakeholders informed and engaged. I reported to Lalitendu Bal and received a 3x internship extension.`,
     technologies: ["Apache", "Jira", "PostgreSQL", "Figma"],
   },
   {
